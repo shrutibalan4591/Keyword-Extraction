@@ -99,7 +99,7 @@ def predict():
     word_count = len(str(data).split(" "))
 
     if word_count<400:
-      return render_html('home.html', error_msg='Article must be of minimum 400 words!')
+      return render_template('home.html', error_msg='Article must be of minimum 400 words!')
     else:
       corpus = create_corpus(data)
 
