@@ -8,4 +8,5 @@ Link to application : https://your-keyword-extractor.herokuapp.com/
 
 ## **Demo-Preview**
 
-![Keyword-Extractor-Demo](Images/demo.gif)
+![image](https://user-images.githubusercontent.com/77207245/153548716-fcee525d-13fe-4cdc-a74c-db67d189e367.png)
+
